@@ -9,9 +9,9 @@
   "ERROR_DESC": "Код ошибки: {errmsg}<br>Пожалуйста, перезайдите в группу и попробуйте ещё раз.",
   "ERRCODE_UNKNOWN": "непредвиденная ошибка",
   "ERRCODE_INVALID_REQUEST": "некорректный запрос",
-  "ERRCODE_TELEGRAM_ACCOUNT_INFO_ERROR": "некорректная информация о Телеграм аккаунте",
+  "ERRCODE_TELEGRAM_ACCOUNT_INFO_ERROR": "Некорректная информация о Телеграм аккаунте",
   "ERRCODE_REQUEST_OVERTIMED": "срок проверки истёк",
-  "ERRCODE_SERVER_UNAVAILABLE": "возможно, сервер в процессе обслуживания",
+  "ERRCODE_SERVER_UNAVAILABLE": "сервер может находиться в процессе обслуживания",
   "ERRCODE_CAPTCHA_NOT_PASSED": "Вы не прошли капчу",
   "LANGUAGE_TEST": "Язык был изменён на русский."
 }
