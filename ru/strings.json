@@ -13,6 +13,5 @@
   "ERRCODE_REQUEST_OVERTIMED": "срок проверки истёк",
   "ERRCODE_SERVER_UNAVAILABLE": "сервер может находиться в процессе обслуживания",
   "ERRCODE_CAPTCHA_NOT_PASSED": "Вы не прошли капчу",
-  "LANGUAGE_TEST": "You are now using English (US) language environment.",
-  "RESULTPAGE_BUTTON_DONE": "Done"
+  "LANGUAGE_TEST": "You are now using English (US) language environment."
 }

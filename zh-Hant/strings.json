@@ -13,6 +13,5 @@
   "ERRCODE_REQUEST_OVERTIMED": "驗證已超時",
   "ERRCODE_SERVER_UNAVAILABLE": "驗證伺服器尚在維護",
   "ERRCODE_CAPTCHA_NOT_PASSED": "沒有通過 CAPTCHA",
-  "LANGUAGE_TEST": "You are now using English (US) language environment.",
-  "RESULTPAGE_BUTTON_DONE": "Done"
+  "LANGUAGE_TEST": "You are now using English (US) language environment."
 }

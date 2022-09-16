@@ -9,9 +9,9 @@
   "ERROR_DESC": "There is an error: {errmsg}<br>Please re-apply to the group and try again.",
   "ERRCODE_UNKNOWN": "unexpected error",
   "ERRCODE_INVALID_REQUEST": "invalid request",
-  "ERRCODE_TELEGRAM_ACCOUNT_INFO_ERROR": "invalid Telegram account info",
+  "ERRCODE_TELEGRAM_ACCOUNT_INFO_ERROR": "Invalid Telegram account info",
   "ERRCODE_REQUEST_OVERTIMED": "verification is expired",
   "ERRCODE_SERVER_UNAVAILABLE": "server may in maintaince",
   "ERRCODE_CAPTCHA_NOT_PASSED": "your CAPTCHA had not be passed",
-  "LANGUAGE_TEST": "You are now using English (US) language environment."
+  "LANGUAGE_TEST": "You are now using English language environment."
 }
