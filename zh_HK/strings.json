@@ -13,5 +13,6 @@
   "ERRCODE_REQUEST_OVERTIMED": "驗證已超時",
   "ERRCODE_SERVER_UNAVAILABLE": "驗證伺服器尚在維護",
   "ERRCODE_CAPTCHA_NOT_PASSED": "仲未通過 CAPTCHA",
-  "LANGUAGE_TEST": "你宜家用緊繁體中文（香港）語言環境。"
+  "LANGUAGE_TEST": "你宜家用緊繁體中文（香港）語言環境。",
+  "RESULTPAGE_BUTTON_DONE": "Done"
 }
