@@ -14,5 +14,5 @@
   "ERRCODE_SERVER_UNAVAILABLE": "驗證伺服器尚在維護",
   "ERRCODE_CAPTCHA_NOT_PASSED": "沒有通過 CAPTCHA",
   "LANGUAGE_TEST": "您現在正在使用繁體中文語言環境。",
-  "RESULTPAGE_BUTTON_DONE": "Done"
+  "RESULTPAGE_BUTTON_DONE": "結束"
 }
