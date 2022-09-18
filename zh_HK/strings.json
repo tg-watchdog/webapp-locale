@@ -3,16 +3,16 @@
   "VERIFING_BANNER": "你係咪人？",
   "VERIFING_SUBTITLE": "完成以下 CAPTCHA 以加入群組。",
   "PASSED_TITLE": "驗證已通過",
-  "PASSED_DESC": "你可以係聊天列表中搵到你啱先加入嘅群組。<br>如果冇搵到，建議你重新打開個 app。",
+  "PASSED_DESC": "你可以係聊天列表中搵到你啱先加入嘅群組。<br>如果冇搵到，建議你重新打開 Telegram 客戶端。",
   "PLEASEWAIT": "等陣先…",
   "ERROR_TITLE": "弊⋯⋯",
   "ERROR_DESC": "發生錯誤：{errmsg}<br>請重新申請加入群組，然後再試。",
   "ERRCODE_UNKNOWN": "未知錯誤",
   "ERRCODE_INVALID_REQUEST": "非法請求",
-  "ERRCODE_TELEGRAM_ACCOUNT_INFO_ERROR": "invalid Telegram account info",
+  "ERRCODE_TELEGRAM_ACCOUNT_INFO_ERROR": "Telegram 帳戶信息唔正確",
   "ERRCODE_REQUEST_OVERTIMED": "驗證已超時",
   "ERRCODE_SERVER_UNAVAILABLE": "驗證伺服器尚在維護",
   "ERRCODE_CAPTCHA_NOT_PASSED": "仲未通過 CAPTCHA",
-  "LANGUAGE_TEST": "You are now using English (US) language environment.",
-  "RESULTPAGE_BUTTON_DONE": "Done"
+  "LANGUAGE_TEST": "你宜家用緊繁體中文（香港）語言環境。",
+  "RESULTPAGE_BUTTON_DONE": "搞掂"
 }
