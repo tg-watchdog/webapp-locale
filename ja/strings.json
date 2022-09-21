@@ -11,7 +11,7 @@
   "ERRCODE_INVALID_REQUEST": "無効なリクエスト",
   "ERRCODE_TELEGRAM_ACCOUNT_INFO_ERROR": "invalid Telegram account info",
   "ERRCODE_REQUEST_OVERTIMED": "verification is expired",
-  "ERRCODE_SERVER_UNAVAILABLE": "server may in maintaince",
+  "ERRCODE_SERVER_UNAVAILABLE": "server may be in maintenance",
   "ERRCODE_CAPTCHA_NOT_PASSED": "your CAPTCHA had not be passed",
   "LANGUAGE_TEST": "You are now using English (US) language environment.",
   "RESULTPAGE_BUTTON_DONE": "Done"
