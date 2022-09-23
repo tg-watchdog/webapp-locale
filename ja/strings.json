@@ -2,7 +2,7 @@
   "LOGIN_REMINDER": "ログイン確認中…",
   "VERIFING_BANNER": "あなたは人間ですか？",
   "VERIFING_SUBTITLE": "グループチャットに参加するには、以下の CAPTCHA を完了してください。",
-  "PASSED_TITLE": "確認完了",
+  "PASSED_TITLE": "検証完了",
   "PASSED_DESC": "ただいま参加したグループチャットは、チャットリストに表示されました。<br>表示されない場合は、Telegram を再起動してみてください。",
   "PLEASEWAIT": "しばらくお待ちください…",
   "ERROR_TITLE": "おっと…",
