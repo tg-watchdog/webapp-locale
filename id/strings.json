@@ -4,7 +4,7 @@
   "VERIFING_SUBTITLE": "Selesai kan CAPTCHA dibawah untuk bergabung ke obrolan grup.",
   "PASSED_TITLE": "Terverifikasi",
   "PASSED_DESC": "Anda dapat menemukan obrolan grup yang baru saja anda bergabung di daftar obrolan.<br>Jika anda tidak melihatnya, coba ulang kembali klien aplikasi Telegram anda.",
-  "PLEASEWAIT": "Mohon tunggu sejenak…",
+  "PLEASEWAIT": "Tunggu beberapa saat…",
   "ERROR_TITLE": "Uups…",
   "ERROR_DESC": "Terdapat galat: {errmsg}<br>Harap mengulanginya kembali ke grup dan coba lagi.",
   "ERRCODE_UNKNOWN": "galat tak terduga",
