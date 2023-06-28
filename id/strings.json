@@ -13,6 +13,6 @@
   "ERRCODE_REQUEST_OVERTIMED": "verifikasi kedaluwarsa",
   "ERRCODE_SERVER_UNAVAILABLE": "peladen mungkin dalam pemeliharaan",
   "ERRCODE_CAPTCHA_NOT_PASSED": "CAPTCHA anda tidak terselesaikan",
-  "LANGUAGE_TEST": "Anda sekarang menggunakan lingkungan sistem bahasa Indonesia.",
+  "LANGUAGE_TEST": "Anda sekarang menggunakan tata bahasa Indonesia.",
   "RESULTPAGE_BUTTON_DONE": "Selesai"
 }
