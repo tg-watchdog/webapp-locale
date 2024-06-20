@@ -1,0 +1,18 @@
+{
+  "LOGIN_REMINDER": "Memverfikasi anda…",
+  "VERIFING_BANNER": "Apakah anda manusia?",
+  "VERIFING_SUBTITLE": "Selesai kan CAPTCHA dibawah untuk bergabung ke obrolan grup.",
+  "PASSED_TITLE": "Terverifikasi",
+  "PASSED_DESC": "Anda dapat menemukan obrolan grup yang baru saja anda bergabung di daftar obrolan.<br>Jika anda tidak melihatnya, coba ulang kembali klien aplikasi Telegram anda.",
+  "PLEASEWAIT": "Tunggu beberapa saat…",
+  "ERROR_TITLE": "Uups…",
+  "ERROR_DESC": "Terdapat galat: {errmsg}<br>Harap mengulanginya kembali ke grup dan coba lagi.",
+  "ERRCODE_UNKNOWN": "galat tak terduga",
+  "ERRCODE_INVALID_REQUEST": "permintaan tidak valid",
+  "ERRCODE_TELEGRAM_ACCOUNT_INFO_ERROR": "Info akun Telegram tidak valid",
+  "ERRCODE_REQUEST_OVERTIMED": "verifikasi kedaluwarsa",
+  "ERRCODE_SERVER_UNAVAILABLE": "peladen mungkin dalam pemeliharaan",
+  "ERRCODE_CAPTCHA_NOT_PASSED": "CAPTCHA anda tidak terselesaikan",
+  "LANGUAGE_TEST": "Anda sekarang menggunakan tata bahasa Indonesia.",
+  "RESULTPAGE_BUTTON_DONE": "Selesai"
+}
