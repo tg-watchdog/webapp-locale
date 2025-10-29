@@ -1,7 +1,7 @@
 {
   "LOGIN_REMINDER": "正在验证登录……",
   "VERIFING_BANNER": "是真人吗？",
-  "VERIFING_SUBTITLE": "完成以下 CAPTCHA 以加入群组。",
+  "VERIFING_SUBTITLE": "完成以下人机验证以加入群组。",
   "PASSED_TITLE": "验证已通过",
   "PASSED_DESC": "您可以在聊天列表找到您刚才加入的群组。<br>如果无法找到群聊，建议尝试重启应用。",
   "PLEASEWAIT": "请稍等……",
@@ -15,5 +15,12 @@
   "ERRCODE_CAPTCHA_NOT_PASSED": "未通过 CAPTCHA",
   "LANGUAGE_TEST": "您现在正在使用简体中文环境。",
   "RESULTPAGE_BUTTON_DONE": "结束",
-  "FOOTER": "机器人仅提供公开的人机验证和反垃圾信息服务。<br>开发社群不直接组建对应群组聊天，也不代表对其话题、观点或服务直接负责或背书。"
+  "FOOTER": "机器人仅提供公开的人机验证和反垃圾信息服务。<br>开发社群不直接组建对应群组聊天，也不代表对其话题、观点或服务直接负责或背书。",
+  "FALLBACK_LOGIN_TITLE": "你是谁？",
+  "FALLBACK_LOGIN_NOTICE": "请先使用申请加入群组的 Telegram 帐户登录",
+  "FALLBACK_LOGGED_IN": "欢迎，{name}！",
+  "FALLBACK_USER_MISMATCH": "错误：登录的用户与验证请求不匹配。请使用正确的 Telegram 账户。",
+  "FALLBACK_SUCCESS": "验证成功！您现在可以关闭此页面并返回 Telegram。",
+  "ERRCODE_TELEGRAM_LOGIN_INVALID": "Telegram 登录验证失败",
+  "ERRCODE_USER_ID_MISMATCH": "用户 ID 不匹配"
 }

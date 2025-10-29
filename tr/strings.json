@@ -15,5 +15,12 @@
   "ERRCODE_CAPTCHA_NOT_PASSED": "CAPTCHA doğrulamanız başarısız oldu",
   "LANGUAGE_TEST": "Artık grubunuzda Türkçe dil ile doğrulama yapacaksınız.",
   "RESULTPAGE_BUTTON_DONE": "Tamamlandı",
-  "FOOTER": "Bot yalnızca açık insan doğrulama ve spam önleme bilgi hizmetleri sunar.<br>Geliştirme topluluğu, ilgili grup sohbetlerini doğrudan organize etmez ve konularına, görüşlerine veya hizmetlerine doğrudan destek veya sorumluluk almaz."
+  "FOOTER": "Bot yalnızca açık insan doğrulama ve spam önleme bilgi hizmetleri sunar.<br>Geliştirme topluluğu, ilgili grup sohbetlerini doğrudan organize etmez ve konularına, görüşlerine veya hizmetlerine doğrudan destek veya sorumluluk almaz.",
+  "FALLBACK_LOGIN_TITLE": "Sen kimsin?",
+  "FALLBACK_LOGIN_NOTICE": "Lütfen önce Telegram hesabınızla giriş yapın",
+  "FALLBACK_LOGGED_IN": "Hoş geldiniz, {name}!",
+  "FALLBACK_USER_MISMATCH": "Hata: Giriş yapan kullanıcı doğrulama isteğiyle eşleşmiyor. Lütfen doğru Telegram hesabını kullanın.",
+  "FALLBACK_SUCCESS": "Doğrulama başarılı! Artık bu sayfayı kapatıp Telegram'a dönebilirsiniz.",
+  "ERRCODE_TELEGRAM_LOGIN_INVALID": "Telegram giriş doğrulaması başarısız oldu",
+  "ERRCODE_USER_ID_MISMATCH": "Kullanıcı ID'si eşleşmiyor"
 }

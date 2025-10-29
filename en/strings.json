@@ -15,5 +15,12 @@
   "ERRCODE_CAPTCHA_NOT_PASSED": "your CAPTCHA had not be passed",
   "LANGUAGE_TEST": "You are now using English language environment.",
   "RESULTPAGE_BUTTON_DONE": "Done",
-  "FOOTER": "The bot only provides public human verification and anti-spam information services.<br>The development community does not directly organize corresponding group chats, nor does it directly endorse or represent responsibility for their topics, views, or services."
+  "FOOTER": "The bot only provides public human verification and anti-spam information services.<br>The development community does not directly organize corresponding group chats, nor does it directly endorse or represent responsibility for their topics, views, or services.",
+  "FALLBACK_LOGIN_TITLE": "Telegram Login Required",
+  "FALLBACK_LOGIN_NOTICE": "Since your client doesn't support WebApp, please log in with Telegram first to verify your identity.",
+  "FALLBACK_LOGGED_IN": "Welcome, {name}!",
+  "FALLBACK_USER_MISMATCH": "Error: The logged-in user doesn't match the verification request. Please use the correct Telegram account.",
+  "FALLBACK_SUCCESS": "Verification successful! You can now close this page and return to Telegram.",
+  "ERRCODE_TELEGRAM_LOGIN_INVALID": "Telegram login verification failed",
+  "ERRCODE_USER_ID_MISMATCH": "User ID does not match"
 }

@@ -15,5 +15,12 @@
   "ERRCODE_CAPTCHA_NOT_PASSED": "仲未通過 CAPTCHA",
   "LANGUAGE_TEST": "你宜家用緊繁體中文（香港）語言環境。",
   "RESULTPAGE_BUTTON_DONE": "搞掂",
-  "FOOTER": "機械人只提供公開嘅人機驗證同反垃圾信息服務。<br>開發社群唔會直接組織對應嘅群組聊天，亦都唔代表對其話題、觀點或者服務負責或者背書。"
+  "FOOTER": "機械人只提供公開嘅人機驗證同反垃圾信息服務。<br>開發社群唔會直接組織對應嘅群組聊天，亦都唔代表對其話題、觀點或者服務負責或者背書。",
+  "FALLBACK_LOGIN_TITLE": "你係邊個？",
+  "FALLBACK_LOGIN_NOTICE": "請先用 Telegram 帳戶登錄",
+  "FALLBACK_LOGGED_IN": "歡迎，{name}！",
+  "FALLBACK_USER_MISMATCH": "錯誤：登錄嘅用戶同驗證請求唔匹配。請用正確嘅 Telegram 帳戶。",
+  "FALLBACK_SUCCESS": "驗證成功！你宜家可以關閉呢個頁面並返回 Telegram。",
+  "ERRCODE_TELEGRAM_LOGIN_INVALID": "Telegram 登錄驗證失敗",
+  "ERRCODE_USER_ID_MISMATCH": "用戶 ID 唔匹配"
 }

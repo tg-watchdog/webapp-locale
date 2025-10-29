@@ -15,5 +15,12 @@
   "ERRCODE_CAPTCHA_NOT_PASSED": "your CAPTCHA had not be passed",
   "LANGUAGE_TEST": "You are now using English language environment.",
   "RESULTPAGE_BUTTON_DONE": "Done",
-  "FOOTER": "The bot only provides public human verification and anti-spam information services.<br>The development community does not directly organize corresponding group chats, nor does it directly endorse or represent responsibility for their topics, views, or services."
+  "FOOTER": "The bot only provides public human verification and anti-spam information services.<br>The development community does not directly organize corresponding group chats, nor does it directly endorse or represent responsibility for their topics, views, or services.",
+  "FALLBACK_LOGIN_TITLE": "你是誰？",
+  "FALLBACK_LOGIN_NOTICE": "請先使用 Telegram 帳戶登錄",
+  "FALLBACK_LOGGED_IN": "歡迎，{name}！",
+  "FALLBACK_USER_MISMATCH": "錯誤：登錄的用戶與驗證請求不匹配。請使用正確的 Telegram 帳戶。",
+  "FALLBACK_SUCCESS": "驗證成功！您現在可以關閉此頁面並返回 Telegram。",
+  "ERRCODE_TELEGRAM_LOGIN_INVALID": "Telegram 登錄驗證失敗",
+  "ERRCODE_USER_ID_MISMATCH": "用戶 ID 不匹配"
 }

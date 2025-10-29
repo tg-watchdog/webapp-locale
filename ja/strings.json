@@ -15,5 +15,12 @@
   "ERRCODE_CAPTCHA_NOT_PASSED": "CAPTCHA の確認が失敗しました",
   "LANGUAGE_TEST": "現在、日本語環境を使用しています。",
   "RESULTPAGE_BUTTON_DONE": "完了",
-  "FOOTER": "ボットは公開の人間認証および迷惑メール防止情報サービスのみを提供します。<br>開発コミュニティは対応するグループチャットを直接組織せず、そのトピック、視点、またはサービスについて直接支持または責任を負うものではありません。"
+  "FOOTER": "ボットは公開の人間認証および迷惑メール防止情報サービスのみを提供します。<br>開発コミュニティは対応するグループチャットを直接組織せず、そのトピック、視点、またはサービスについて直接支持または責任を負うものではありません。",
+  "FALLBACK_LOGIN_TITLE": "誰ですか？",
+  "FALLBACK_LOGIN_NOTICE": "まず Telegram アカウントでログインしてください",
+  "FALLBACK_LOGGED_IN": "ようこそ、{name}！",
+  "FALLBACK_USER_MISMATCH": "エラー：ログインしたユーザーが認証リクエストと一致しません。正しい Telegram アカウントを使用してください。",
+  "FALLBACK_SUCCESS": "認証成功！このページを閉じて Telegram に戻ることができます。",
+  "ERRCODE_TELEGRAM_LOGIN_INVALID": "Telegram ログイン認証に失敗しました",
+  "ERRCODE_USER_ID_MISMATCH": "ユーザー ID が一致しません"
 }
