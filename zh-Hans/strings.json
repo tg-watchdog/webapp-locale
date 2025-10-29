@@ -14,5 +14,6 @@
   "ERRCODE_SERVER_UNAVAILABLE": "验证服务或在维护",
   "ERRCODE_CAPTCHA_NOT_PASSED": "未通过 CAPTCHA",
   "LANGUAGE_TEST": "您现在正在使用简体中文环境。",
-  "RESULTPAGE_BUTTON_DONE": "结束"
+  "RESULTPAGE_BUTTON_DONE": "结束",
+  "FOOTER": "机器人仅提供公开的人机验证和反垃圾信息服务。<br>开发社群不直接组建对应群组聊天，也不代表对其话题、观点或服务直接负责或背书。"
 }

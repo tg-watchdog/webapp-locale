@@ -14,5 +14,6 @@
   "ERRCODE_SERVER_UNAVAILABLE": "驗證伺服器尚在維護",
   "ERRCODE_CAPTCHA_NOT_PASSED": "沒有通過 CAPTCHA",
   "LANGUAGE_TEST": "您現在正在使用繁體中文語言環境。",
-  "RESULTPAGE_BUTTON_DONE": "結束"
+  "RESULTPAGE_BUTTON_DONE": "結束",
+  "FOOTER": "機器人僅提供公開的人機驗證和反垃圾信息服務。<br>開發社群不直接組建對應群組聊天，也不代表對其話題、觀點或服務直接負責或背書。"
 }

@@ -14,5 +14,6 @@
   "ERRCODE_SERVER_UNAVAILABLE": "server may be in maintenance",
   "ERRCODE_CAPTCHA_NOT_PASSED": "your CAPTCHA had not be passed",
   "LANGUAGE_TEST": "You are now using English language environment.",
-  "RESULTPAGE_BUTTON_DONE": "Done"
+  "RESULTPAGE_BUTTON_DONE": "Done",
+  "FOOTER": "The bot only provides public human verification and anti-spam information services.<br>The development community does not directly organize corresponding group chats, nor does it directly endorse or represent responsibility for their topics, views, or services."
 }

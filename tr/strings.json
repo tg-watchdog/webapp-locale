@@ -14,5 +14,6 @@
   "ERRCODE_SERVER_UNAVAILABLE": "sunucu bakımda olabilir",
   "ERRCODE_CAPTCHA_NOT_PASSED": "CAPTCHA doğrulamanız başarısız oldu",
   "LANGUAGE_TEST": "Artık grubunuzda Türkçe dil ile doğrulama yapacaksınız.",
-  "RESULTPAGE_BUTTON_DONE": "Tamamlandı"
+  "RESULTPAGE_BUTTON_DONE": "Tamamlandı",
+  "FOOTER": "Bot yalnızca açık insan doğrulama ve spam önleme bilgi hizmetleri sunar.<br>Geliştirme topluluğu, ilgili grup sohbetlerini doğrudan organize etmez ve konularına, görüşlerine veya hizmetlerine doğrudan destek veya sorumluluk almaz."
 }

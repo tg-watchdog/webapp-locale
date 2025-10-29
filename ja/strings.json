@@ -14,5 +14,6 @@
   "ERRCODE_SERVER_UNAVAILABLE": "サーバーはメンテナンス中の可能性があります",
   "ERRCODE_CAPTCHA_NOT_PASSED": "CAPTCHA の確認が失敗しました",
   "LANGUAGE_TEST": "現在、日本語環境を使用しています。",
-  "RESULTPAGE_BUTTON_DONE": "完了"
+  "RESULTPAGE_BUTTON_DONE": "完了",
+  "FOOTER": "ボットは公開の人間認証および迷惑メール防止情報サービスのみを提供します。<br>開発コミュニティは対応するグループチャットを直接組織せず、そのトピック、視点、またはサービスについて直接支持または責任を負うものではありません。"
 }

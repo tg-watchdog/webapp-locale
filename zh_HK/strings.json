@@ -14,5 +14,6 @@
   "ERRCODE_SERVER_UNAVAILABLE": "驗證伺服器尚在維護",
   "ERRCODE_CAPTCHA_NOT_PASSED": "仲未通過 CAPTCHA",
   "LANGUAGE_TEST": "你宜家用緊繁體中文（香港）語言環境。",
-  "RESULTPAGE_BUTTON_DONE": "搞掂"
+  "RESULTPAGE_BUTTON_DONE": "搞掂",
+  "FOOTER": "機械人只提供公開嘅人機驗證同反垃圾信息服務。<br>開發社群唔會直接組織對應嘅群組聊天，亦都唔代表對其話題、觀點或者服務負責或者背書。"
 }
